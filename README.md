@@ -62,3 +62,4 @@ public class DubboConsumerApplication {
 
 }
 ```
+其余配置请查看相应项目的properties文件
